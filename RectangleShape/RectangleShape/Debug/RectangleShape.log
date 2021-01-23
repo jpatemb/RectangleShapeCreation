@@ -1,0 +1,3 @@
+﻿  RectangleShape.cpp
+C:\Users\JP\source\repos\RectangleShape\RectangleShape\RectangleShape.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RectangleShape.vcxproj -> C:\Users\JP\source\repos\RectangleShape\Debug\RectangleShape.exe
